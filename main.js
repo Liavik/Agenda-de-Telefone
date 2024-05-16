@@ -42,6 +42,7 @@ function verificanome() {
 }
 
 function verificafone() {
+    //Quantidade minima valida de caracteres (eu gostaria que fosse no minimo 10)//
 }
 
 function adicionaLinha() {
@@ -69,3 +70,6 @@ function atualizaTabela() {
     corpoTabela.innerHTML = linhas;
 };
 
+function atualizaQuantidade() {
+    //Quantida de telefones adicionados//
+}
